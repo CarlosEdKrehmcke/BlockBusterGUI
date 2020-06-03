@@ -1,0 +1,13 @@
+D:\Desktop\Senac\BlockBusterGUI\bin\Debug\netcoreapp3.1\BlockBusterGUI.exe
+D:\Desktop\Senac\BlockBusterGUI\bin\Debug\netcoreapp3.1\BlockBusterGUI.deps.json
+D:\Desktop\Senac\BlockBusterGUI\bin\Debug\netcoreapp3.1\BlockBusterGUI.runtimeconfig.json
+D:\Desktop\Senac\BlockBusterGUI\bin\Debug\netcoreapp3.1\BlockBusterGUI.runtimeconfig.dev.json
+D:\Desktop\Senac\BlockBusterGUI\bin\Debug\netcoreapp3.1\BlockBusterGUI.dll
+D:\Desktop\Senac\BlockBusterGUI\bin\Debug\netcoreapp3.1\BlockBusterGUI.pdb
+D:\Desktop\Senac\BlockBusterGUI\obj\Debug\netcoreapp3.1\BlockBusterGUI.csprojAssemblyReference.cache
+D:\Desktop\Senac\BlockBusterGUI\obj\Debug\netcoreapp3.1\BlockBusterGUI.csproj.CoreCompileInputs.cache
+D:\Desktop\Senac\BlockBusterGUI\obj\Debug\netcoreapp3.1\BlockBusterGUI.AssemblyInfoInputs.cache
+D:\Desktop\Senac\BlockBusterGUI\obj\Debug\netcoreapp3.1\BlockBusterGUI.AssemblyInfo.cs
+D:\Desktop\Senac\BlockBusterGUI\obj\Debug\netcoreapp3.1\BlockBusterGUI.dll
+D:\Desktop\Senac\BlockBusterGUI\obj\Debug\netcoreapp3.1\BlockBusterGUI.pdb
+D:\Desktop\Senac\BlockBusterGUI\obj\Debug\netcoreapp3.1\BlockBusterGUI.genruntimeconfig.cache
